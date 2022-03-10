@@ -1,1 +1,1 @@
-# Forex-MT-Trading
+# Forex Trading MT Assistant Tool
